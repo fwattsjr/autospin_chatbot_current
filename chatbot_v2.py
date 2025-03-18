@@ -6,7 +6,7 @@ from openai import AzureOpenAI
 st.title("Corn Rootworm Chatbot Prototype")
 
 client = AzureOpenAI(
-    azure_endpoint = 'https://ets-aopai-rschtech-eastus-001.openai.azure.com/',
+    azure_endpoint = st.secrets["AZURE_ENDPOINT"],
     api_key = st.secrets["OPENAI_API_KEY"],
     api_version = "2025-02-01-preview"
     )
