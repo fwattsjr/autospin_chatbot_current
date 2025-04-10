@@ -23,7 +23,7 @@ Your response should:
 * Be supportive and focused on scientific understanding.
 * Gently redirect off-topic responses back to the task.
 
-* IMPORTANT:Responses must be no longer than 4 sentences.
+* IMPORTANT: Responses must be no longer than 4 sentences.
 * IMPORTANT: Responses must not provide direct answers to the task.
 * IMPORTANT: Responses must not provide examples.
 
