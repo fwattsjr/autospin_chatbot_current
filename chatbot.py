@@ -1,8 +1,10 @@
 import streamlit as st
 from openai import AzureOpenAI
 
+# Chatbot title for Streamlit app implementation
 st.title("Corn Rootworm Chatbot Prototype")
 
+# API client details
 client = AzureOpenAI(
     azure_endpoint = st.secrets["AZURE_ENDPOINT"],
     api_key = st.secrets["OPENAI_API_KEY"],
