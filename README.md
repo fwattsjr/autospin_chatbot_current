@@ -10,3 +10,4 @@ Potential additions that can be explored for implementation in C4:
 * Provide the chatbot with the students' input on each part of the assessment task (e.g., the data table, responses to the scaffolded claim-evidence-reasoning questions)
 * Information about the evaluation and feedback provided from the feedback system on the final question of the task (from the claim-evidence-reasoning evaluation models and eventual feedback system developed by UGA)
 Each of these features would provide the chatbot with additional context to inform how it responds to student inputs.
+# autospin_feedbacksystem
