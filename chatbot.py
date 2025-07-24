@@ -2,7 +2,7 @@ import streamlit as st
 from openai import AzureOpenAI
 
 # Chatbot title for Streamlit app implementation
-st.title("Corn Rootworm Chatbot Prototype")
+st.title("Spin-Bot Prototype")
 
 # API client details
 client = AzureOpenAI(
